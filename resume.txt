@@ -1,46 +1,32 @@
-Personal Information
+# Gaurav Shrivastava
+Morena, India | gauravshrivastava5591@gmail.com | [LinkedIn](linkedin.com/in/gaurav-web-developer) | [GitHub](github.com/GauravRandheer)
 
-Gaurav Shrivastava
-Morena, India
-gauravshrivastava5591@gmail.com 
-linkedin.com/in/gaurav-web-developer
-github.com/GauravRandheer
+## Work Experience
 
+**Frontend Developer, Blobcity** (Aug 2022 - Oct 2023)
+Remote, Mumbai
 
+* Developed and managed front-end projects using React.
+* Built client-side and admin-side web applications.
+* Adapted to project specifications and utilized templates.
+* Worked with clients to resolve errors and issues.
+* Managed project timelines and met deadlines.
+* Communicated with clients to ensure understanding of requirements.
 
-Work Experience
-
-Full Stack Software Engineer in  Blobcity from Aug 2022– October 2023.
-
-Remote,Mumbai
-
-● Successfully developed and managed front-end projects using React, showcasing my strong problem-solving skills
-and self-motivation.
-● Built both client-side and admin-side web applications to cater to diverse requirements and user needs.
-● Adapted to project specifications and effectively utilized templates to deliver efficient and effective solutions.
-● Worked closely with clients to identify and resolve errors and issues in web applications, ensuring their satisfaction
-and addressing their specific needs.
-● Took ownership of project timelines, consistently meeting milestones and deadlines, ensuring smooth project
-execution.
-● Maintained open lines of communication with clients, ensuring a clear understanding of their requirements and
-effective problem resolution.
-
-
-
-Frontend Development Intern Pepcoding from Jan 2022 to June 2022.
-
+**Frontend Development Intern, Pepcoding** (Jan 2022 - June 2022)
 Remote
 
-● Developed proficiency in HTML, CSS, JavaScript, and React.
-● Successfully completed several small projects utilizing these technologies.
+* Developed proficiency in HTML, CSS, JavaScript, and React.
+* Completed several small projects.
 
+## Education and Certifications
 
+* B.Tech. Computer Science and Engineering, BML Munjal University, Gurgaon (2015 - 2019)
 
-Education and Certifications
-● B.Tech. Computer Science and Engineering, BML Munjal University, Gurgoan. 2015–2019
+## Technologies and Languages
 
+* JavaScript, HTML, CSS, React, Bootstrap, Git, Node.js, Express.js, Postgres
 
-Technologies and Languages
-● Languages: JavaScript,HTML,CSS,
-● Technologies: React, Bootstrap, Git,
-● Learning from last six monthes: Backend, Node, express ,Postgres,
+## Personal Work
+
+* Have published some blogs on [Hashnode](https://gaurav-shrivastava.hashnode.dev/).

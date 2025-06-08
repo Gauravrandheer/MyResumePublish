@@ -4,7 +4,7 @@
   "description": "My resume run in npm package",
   "main": "index.js",
   "bin":{
-    "gaurav-web-developer":"./index.js"
+    "@gaurav-web-developer":"./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
